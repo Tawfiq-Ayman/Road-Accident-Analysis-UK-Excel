@@ -222,7 +222,7 @@ The dashboard was built entirely in Excel with **2 interactive slicers** produci
 
 ### 📸 Dashboard Preview
 
-![Road Accident Dashboard](<img width="1280" height="610" alt="photo_2026-04-28_17-36-05" src="https://github.com/user-attachments/assets/e4e2b63a-03ed-47d4-b0e0-5eb52e201674" />
+![Road Accident Dashboard](<img width="1280" height="610" alt="photo_2026-04-28_17-36-05" src="https://github.com/user-attachments/assets/2ecb6ace-3e16-4cab-82ce-b5597cafb6d9" />
 )
 
 ### 🎛️ Filters
