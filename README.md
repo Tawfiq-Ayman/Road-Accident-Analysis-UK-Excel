@@ -299,9 +299,9 @@ That's the difference between **describing data** and **actually analyzing it.**
 
 ## 📬 Contact
 
-**[Your Name]**  
-📧 [Your Email]  
-🔗 [Your LinkedIn Profile]
+**[Tawfiq Ayman Fayyad]**  
+📧 [tawfiq.ayman17@gmail.com]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tawfiq-ayman-a79a023b9/)
 
 ---
 
