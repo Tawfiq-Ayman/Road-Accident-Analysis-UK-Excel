@@ -218,7 +218,11 @@ Something worked. The next step is understanding exactly what — and scaling it
 
 ## 📊 Interactive Dashboard
 
-The dashboard was built entirely in Excel with **2 interactive slicers** producing **9 dynamic views:**
+The dashboard was built entirely in Excel with **2 interactive slicers** producing **9 dynamic views.**
+
+### 📸 Dashboard Preview
+
+![Road Accident Dashboard](screenshots/dashboard_overview.png)
 
 ### 🎛️ Filters
 | Filter | Options |
@@ -226,19 +230,7 @@ The dashboard was built entirely in Excel with **2 interactive slicers** produci
 | Accident Year | All Periods / 2021 / 2022 |
 | Area Type | All / Rural / Urban |
 
-### 📸 Dashboard Views
-
-| View | Filter Applied |
-|---|---|
-| View 1 | No filter — Full Overview |
-| View 2 | Year: 2021 only |
-| View 3 | Year: 2022 only |
-| View 4 | Area: Rural — All Years |
-| View 5 | Area: Rural + Year: 2021 |
-| View 6 | Area: Rural + Year: 2022 |
-| View 7 | Area: Urban — All Years |
-| View 8 | Area: Urban + Year: 2021 |
-| View 9 | Area: Urban + Year: 2022 |
+> The 2 slicers combined produce **9 dynamic views** — covering every year and location combination.
 
 ### 📐 Dashboard Components
 - **KPI Cards** — Total, Fatal, Serious, Slight Casualties + Casualties by Cars
@@ -248,6 +240,18 @@ The dashboard was built entirely in Excel with **2 interactive slicers** produci
 - **Casualties by Road Surface** — stacked bar chart
 - **Casualties by Area/Location** — donut chart (Urban vs Rural)
 - **Casualties by Day/Night** — donut chart
+
+---
+
+## 📂 Project Files
+
+| File | Description |
+|---|---|
+| 📊 `data/Road_Accident_Data.xlsx` | Raw dataset — 307,975 records, 21 fields |
+| 📈 `dashboard/Road_Accident_Dashboard.xlsx` | Final interactive Excel dashboard |
+| 📄 `report/Road_Accident_Analysis_Report.pdf` | Full structured analysis report |
+| 📋 `requirements/REQUIREMENT_Road_Accident.pdf` | Original project requirements document |
+| 🖼️ `screenshots/dashboard_overview.png` | Dashboard preview image |
 
 ---
 
