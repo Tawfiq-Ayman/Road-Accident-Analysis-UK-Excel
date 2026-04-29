@@ -222,7 +222,8 @@ The dashboard was built entirely in Excel with **2 interactive slicers** produci
 
 ### 📸 Dashboard Preview
 
-![Road Accident Dashboard](screenshots/dashboard_overview.png)
+![Road Accident Dashboard](<img width="1280" height="610" alt="photo_2026-04-28_17-36-05" src="https://github.com/user-attachments/assets/e4e2b63a-03ed-47d4-b0e0-5eb52e201674" />
+)
 
 ### 🎛️ Filters
 | Filter | Options |
@@ -247,11 +248,10 @@ The dashboard was built entirely in Excel with **2 interactive slicers** produci
 
 | File | Description |
 |---|---|
-| 📊 `data/Road_Accident_Data.xlsx` | Raw dataset — 307,975 records, 21 fields |
-| 📈 `dashboard/Road_Accident_Dashboard.xlsx` | Final interactive Excel dashboard |
-| 📄 `report/Road_Accident_Analysis_Report.pdf` | Full structured analysis report |
-| 📋 `requirements/REQUIREMENT_Road_Accident.pdf` | Original project requirements document |
-| 🖼️ `screenshots/dashboard_overview.png` | Dashboard preview image |
+| 📊 [Road_Accident_Data.xlsx]([data/Road_Accident_Data.xlsx](https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=100705334051082984991&rtpof=true&sd=true)) | Raw dataset — 307,975 records, 21 fields |
+| 📄 [Road_Accident_Analysis_Report.pdf](https://github.com/Tawfiq-Ayman/Road-Accident-Analysis-UK-Excel/blob/main/Road%20Accident%20Dashboard%20%E2%80%94%20Data%20Analysis%20Report.pdf) | Full structured analysis report |
+| 📋 [REQUIREMENT_Road_Accident.pdf]([requirements/REQUIREMENT_Road_Accident.pdf](https://github.com/Tawfiq-Ayman/Road-Accident-Analysis-UK-Excel/blob/main/REQUIREMENT%20Road%20Accident%20.pdf)) | Original project requirements document |
+| 🖼️ [dashboard_overview.png]([screenshots/dashboard_overview.png](https://github.com/Tawfiq-Ayman/Road-Accident-Analysis-UK-Excel/blob/main/photo_2026-04-28_17-36-05.jpg)) | Dashboard preview image |
 
 ---
 
